@@ -9,7 +9,7 @@ const hero = () => {
           GET A BETTER ADVICE
         </h1>
         <h2 className="font-bold text-5xl">
-          Let's Find a Best Doctor Around The World
+          Let&apos;s Find a Best Doctor Around The World
         </h2>
         <p className="text-text max-w-[500px]">
           We develop a website to improve your health better and get a life you
